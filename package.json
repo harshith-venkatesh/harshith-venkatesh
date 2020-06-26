@@ -4,11 +4,11 @@
   "description": "Gatsby.js V2 starter template based on Resume by startbootstrap",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-resume.git"
+    "url": "git+https://github.com/Harshi7016/gatsby-starter-harshith-venkatesh"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Harshith Venkatesh",
+    "email": "harshithece7016@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -27,7 +27,7 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "npm run clean && gatsby build",
-    "deploy": "npm run clean && gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "npm run clean && gatsby build && gh-pages -d public",
     "serve": "gatsby serve",
     "clean": "rimraf .cache public",
     "format": "prettier --write '**/*.js'",
