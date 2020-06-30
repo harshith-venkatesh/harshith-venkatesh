@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Resume', // <title>
+  siteTitle: 'Harshith Venkatesh', // <title>
   manifestName: 'Resume',
-  manifestShortName: 'Landing', // max 12 characters
+  manifestShortName: 'Harshi7016', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
