@@ -23,10 +23,12 @@ const IndexPage = () => (
             <a href={`mailto:${config.email}`}>{config.email}</a>
           </div>
           <p className="lead mb-5">
-            I am experienced in leveraging agile frameworks to provide a robust
-            synopsis for high level overviews. Iterative approaches to corporate
-            strategy foster collaborative thinking to further the overall value
-            proposition.
+            MERN stack developer enthusiasts in making projects in JavaScript
+            using stacks like React.js, Express, Node.js, and database using
+            Mongo dB and Oracle dB. I am currently working in CenturyLink India
+            Private Limited as a Web Application Developer, have 2 years of work
+            experiance where I have got the opportunity to explore more on
+            Angular7,NodeJS with business domain on BlockChain.
           </p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
@@ -52,23 +54,26 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Senior Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <h3 className="mb-0">Web Application Developer</h3>
+              <div className="subheading mb-3">
+                CenturyLink India Private Limited, Bangalore
+              </div>
               <p>
-                Bring to the table win-win survival strategies to ensure
-                proactive domination. At the end of the day, going forward, a
-                new normal that has evolved from generation X is on the runway
-                heading towards a streamlined cloud solution. User generated
-                content in real-time will have multiple touchpoints for
-                offshoring.
+                Created the enterprise dashboard and the data visualization
+                module for different assets in Financial Blockchain Ledger
+                Project. I got the opportunity to set up the front end module
+                and maintain it. Played the role of mentor and been a part of
+                cultural team. Collaborated on high priority projects with tact
+                and strong attention to detail. Tech Stack: Angular, Gitlab,
+                NodeJS
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">March 2013 - Present</span>
+              <span className="text-primary">August 2018 - Present</span>
             </div>
           </div>
 
-          <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          {/* <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
               <h3 className="mb-0">Web Developer</h3>
               <div className="subheading mb-3">Intelitec Solutions</div>
@@ -83,9 +88,9 @@ const IndexPage = () => (
             <div className="resume-date text-md-right">
               <span className="text-primary">December 2011 - March 2013</span>
             </div>
-          </div>
+          </div> */}
 
-          <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          {/* <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
               <h3 className="mb-0">Junior Web Designer</h3>
               <div className="subheading mb-3">Shout! Media Productions</div>
@@ -100,9 +105,9 @@ const IndexPage = () => (
             <div className="resume-date text-md-right">
               <span className="text-primary">July 2010 - December 2011</span>
             </div>
-          </div>
+          </div> */}
 
-          <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
+          {/* <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
               <h3 className="mb-0">Web Design Intern</h3>
               <div className="subheading mb-3">Shout! Media Productions</div>
@@ -116,7 +121,7 @@ const IndexPage = () => (
             <div className="resume-date text-md-right">
               <span className="text-primary">September 2008 - June 2010</span>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
 
@@ -131,24 +136,30 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">University of Colorado Boulder</h3>
-              <div className="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
+              <h3 className="mb-0">Manipal University, Manipal</h3>
+              <div className="subheading mb-3"> Bachelor of Technology</div>
+              <div>Electronics and Communication Engineering</div>
+              <p>GPA: 8.44</p>
+              <p>
+                Technical Secretary, Coding and Development Head - Akshay Urja
+                Club, Event Head for ENERGIA - Techtatva'16(Technical Fest of
+                MIT, Manipal), Organiser for Judges Category during
+                REVELS'16(Cultural Fest of MIT, Manipal) 
+              </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2006 - May 2010</span>
+              <span className="text-primary">August 2014 - May 2018</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">James Buchanan High School</h3>
-              <div className="subheading mb-3">Technology Magnet Program</div>
-              <p>GPA: 3.56</p>
+              <h3 className="mb-0">PoornaPrajna PU College</h3>
+              <div className="subheading mb-3">Class 12</div>
+              <p>94%</p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2002 - May 2006</span>
+              <span className="text-primary">August 2012 - May 2014</span>
             </div>
           </div>
         </div>
@@ -237,16 +248,15 @@ const IndexPage = () => (
           <h2 className="mb-5">Interests</h2>
           <p>
             Apart from being a web developer, I enjoy most of my time being
-            outdoors. In the winter, I am an avid skier and novice ice climber.
-            During the warmer months here in Colorado, I enjoy mountain biking,
-            free climbing, and kayaking.
+            outdoors. I enjoy my weekends on teaching in community school and
+            hosting events.
           </p>
-          <p className="mb-0">
+          {/* <p className="mb-0">
             When forced indoors, I follow a number of sci-fi and fantasy genre
             movies and television shows, I am an aspiring chef, and I spend a
             large amount of my free time exploring the latest technology
             advancements in the front-end web development world.
-          </p>
+          </p> */}
         </div>
       </section>
 
@@ -261,13 +271,14 @@ const IndexPage = () => (
           <ul className="fa-ul mb-0">
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Google Analytics Certified Developer
+              Star Award of the quarter 2019 - CenturyLink
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Mobile Web Specialist - Google Certification
+              100% Scholorship for securing 541 rank in Manipal University
+              Online Entrance Test
             </li>
-            <li>
+            {/* <li>
               <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
               Place - University of Colorado Boulder - Emerging Tech Competition
               2009
@@ -289,7 +300,7 @@ const IndexPage = () => (
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>3<sup>rd</sup>
               Place - James Buchanan High School - Hackathon 2005
-            </li>
+            </li> */}
           </ul>
         </div>
       </section>
