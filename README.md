@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshith Venkatesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi7016" alt="harshith-venkatesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith-venkatesh" alt="harshith-venkatesh" /> </p>
 
 
 - 🔭 I’m currently working in Lumen Technologies India 
