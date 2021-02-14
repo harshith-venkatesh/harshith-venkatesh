@@ -30,7 +30,7 @@
 
 
 <p align="left">
-<img align="left" alt="gkanishk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshi7016&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshi7016&layout=compact&theme=buefy" alt="languages" height="165">
+<img align="left" alt="gkanishk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshith-venkatesh&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithvenkatesh&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
 
