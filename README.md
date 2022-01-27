@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith-venkatesh" alt="harshith-venkatesh" /> </p>
 
 
-- 🔭 I’m currently working in Lumen Technologies India 
-- 🌱 I’m currently learning Angular7+,ReactJS,VanillaJS,NodeJS,ExpressJS,MongodB
+- 🔭 Engineering@Freshworks Inc 
+- 🌱 I’m currently building consumer applications using ReactJS,Redux,VanillaJS,NodeJS,ExpressJS,MongodB
 - 👯 I’m looking to collaborate on Web Applications
 - 🤔 I’m looking for help with Open Source Projects
 - 💬 Ask me about Front End Development.
@@ -32,6 +32,11 @@
 <p align="left">
 <img align="left" alt="gkanishk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshith-venkatesh&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithvenkatesh&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
+
+### 🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshith-venkatesh&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### projects
