@@ -43,19 +43,7 @@
 
 My projects:
 
-#### 1. I am the One Who Knocks
-
-![project image](https://i.ibb.co/7Q8QTyj/project5.png)
-
-Project was mainly focussed on exploring react and PWA, A Progressive Web App based on Breaking Bad Character Display with few added features. All the criteria has met for PWA and is mobile friendly.
-
-**_Stacks_** React,HTML5,CSS3, Hosted in Netlify
-
-- [**_hosted link_**](https://iamtheonewhoknocks.netlify.app/)
-
-- [**_github link_**](https://github.com/Harshi7016/BreakingBad)
-
-#### 2. Farm 2 Home
+#### 1. Farm 2 Home
 
 ![project image](https://i.ibb.co/86Z4Fzc/project6.png)
 
@@ -68,7 +56,7 @@ _platform_ Heroku
 
 - [**_github link_**](https://github.com/Harshi7016/Farm2Homev1)
 
-#### 3. Simple React To Do List
+#### 2. Simple React To Do List
 
 Entry Level React Project with more emphasis on learning state ,display of data with simple animation. It gave me more perspective on data manipulation using props and state.
 
@@ -78,7 +66,7 @@ Entry Level React Project with more emphasis on learning state ,display of data 
 
 - [**_github link_**](https://github.com/Harshi7016/ReactToDo)
 
-#### 4. Covid-19 Tracker
+#### 3. Covid-19 Tracker
 
 ![project image](https://i.ibb.co/Nm5dbFb/project3.png)
 
@@ -90,7 +78,7 @@ Covid-19 Tracker web application which gets the response from the API: https://c
 
 - [**_github link_**](https://github.com/Harshi7016/CoronaTracker)
 
-#### 5. Weather App
+#### 4. Weather App
 
 ![project image](https://i.ibb.co/7ps7BzX/project4.png)
 
@@ -102,7 +90,7 @@ Project was mainly focussed on exploring react and PWA, A simple weather app wit
 
 - [**_github link_**](https://github.com/Harshi7016/WeatherAppPWA)
 
-#### 6. Where In The Country
+#### 5. Where In The Country
 
 ![project image](https://i.ibb.co/BwhY0zm/project1.png)
 
@@ -114,7 +102,7 @@ Project was mainly focussed on exploring react and PWA, A Progressive Web App ba
 
 - [**_github link_**](https://github.com/Harshi7016/WhereInTheWorld)
 
-#### 7. ExpenseTracker
+#### 6. ExpenseTracker
 
 ![project image](https://i.ibb.co/RTm3yGX/project2.png)
 
@@ -127,7 +115,7 @@ I have built using youtube tutorial and have converted the desktop app to respon
 
 - [**_github link_**](https://github.com/Harshi7016/ExpenseTracker)
 
-#### 8. Analog Clock
+#### 7. Analog Clock
 
 Simple Analog Clock design with focus to learn basics after going through Tanay Pratap's course on Vanilla JS. It has dark and light mode which can be toggled.
 
