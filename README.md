@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshith Venkatesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith-venkatesh" alt="harshith-venkatesh" /> </p>
 
 
-- 🔭 Engineering@Freshworks Inc 
+- 🔭 Engineering@Arctic Wolf Networks 
 - 🌱 I’m currently building consumer applications using ReactJS,Redux,VanillaJS,NodeJS,ExpressJS,MongodB
 - 👯 I’m looking to collaborate on Web Applications
 - 🤔 I’m looking for help with Open Source Projects
